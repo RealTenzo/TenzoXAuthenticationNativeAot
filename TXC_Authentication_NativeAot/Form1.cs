@@ -6,8 +6,8 @@ namespace TXC_Authentication_NativeAot
     public partial class Form1 : Form
     {
         private static readonly TXA Auth = new TXA(
-            name: "test",
-            secret: "TXA-ZKOM4LP9DA",
+            name: "",
+            secret: "TXA-",
             version: "1.0"
         );
 
