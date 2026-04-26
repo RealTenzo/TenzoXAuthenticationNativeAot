@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+   <PublishAot>true</PublishAot>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+	<BuiltInComInteropSupport>true</BuiltInComInteropSupport>
+	<_SuppressWinFormsTrimError>true</_SuppressWinFormsTrimError>
+	  <CustomResourceTypesSupport>true</CustomResourceTypesSupport>
+  </PropertyGroup>
+
+</Project>
